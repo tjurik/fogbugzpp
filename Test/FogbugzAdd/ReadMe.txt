@@ -5,7 +5,10 @@ This is a SIMPLE test application for the FogBugz C++ XML API wrapper.
 To build this project:
 
 1. download the CURL library (I have built against libcurl-7.19.3-win32-ssl-msvc)
+  get it from: http://curl.haxx.se/libcurl/
+
 2. unzip it to a directory on your build machine/dev machine
+
 3. Set up an environment variable called 'CURL_DIR' and set it to the path of the curl dir.
   e.g. F:\Development\3rdParty\Win32\libcurl\libcurl-7.19.3-win32-ssl-msvc
 
